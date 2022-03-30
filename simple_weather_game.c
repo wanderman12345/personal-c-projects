@@ -10,7 +10,9 @@ int main (){
         {2014, 32.9}
     };
 
+
     double average = 0;
+    double var = 2;
 
     for(int i = 0; i < 5; i++){
         for(int j = 0; j < 2; j++){
